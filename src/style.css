@@ -1,0 +1,35 @@
+canvas {
+  display: block;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: yellow;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-container {
+  padding: 0;
+  margin-left: 50vh;
+  margin-right: 50vh;
+  margin-top: 75vh;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between;
+}
+
+#info {
+  padding: 0;
+  margin-left: 10vh;
+  margin-right: 10vh;
+  margin-top: 3vh;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-evenly;
+}

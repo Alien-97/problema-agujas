@@ -1,0 +1,23 @@
+{
+  "name": "problema-agujas",
+  "version": "1.0.0",
+  "description": "Problema agujas examen PAI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node web-server/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alien-97/problema-agujas.git"
+  },
+  "keywords": [
+    "problema-agujas"
+  ],
+  "author": "Alien Embarec Riadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alien-97/problema-agujas/issues"
+  },
+  "homepage": "https://github.com/Alien-97/problema-agujas#readme"
+}
